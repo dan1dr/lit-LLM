@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lit-llm"
+version = "0.1.0"
+description = ""
+authors = ["dan1dr <dannieyo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
