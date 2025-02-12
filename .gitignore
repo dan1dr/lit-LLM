@@ -172,6 +172,12 @@ cython_debug/
 
 # Ignore PyTorch model checkpoints
 *.pth
+*.ckpt
+*.ckpt.data-*
+*.ckpt.index
+*.ckpt.meta
+checkpoint
+vocab.bpe
 
 # Ignore macOS sys files
 .DS_Store
