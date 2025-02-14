@@ -1,6 +1,6 @@
 # lit-LLM
 
-Welcome to the repository for recreating a Large Language Model (LLM) from scratch, inspired by the textbook [*Build a Large Language Model (From Scratch)*](https://github.com/rasbt) by Sebastian Raschka. This project walks you through building, training, and evaluating your own transformer-based language model using modern best practices.
+Welcome to the repository for recreating a Large Language Model (LLM) from scratch, inspired by the textbook [*Build a Large Language Model (From Scratch)*](https://github.com/rasbt/LLMs-from-scratch) by Sebastian Raschka. This project walks you through building, training, and evaluating your own transformer-based language model using modern best practices.
 
 
 ## Prerequisites
